@@ -927,6 +927,10 @@ Blockly.defineBlocksWithJsonArray(
                 [
                   "ガス検知状態  無",
                   "GasDetectionStatus  NO"
+                ],
+                [
+                  "ガス濃度計測値",
+                  "Measured value of gas concentration"
                 ]
               ]
             }
