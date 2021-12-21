@@ -234,14 +234,14 @@ Code.LANG = Code.getLang();
  * List of tab names.
  * @private
  */
-Code.TABS_ = ['blocks', 'javascript'];
+Code.TABS_ = ['blocks'];
 
 /**
  * List of tab names with casing, for display in the UI.
  * @private
  */
 Code.TABS_DISPLAY_ = [
-  'Blocks', 'JavaScript'
+  'Blocks'
 ];
 
 Code.selected = 'blocks';
